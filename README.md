@@ -17,13 +17,13 @@ Form page contain simple form and dropdown field for province, city, district an
 ### 2. Capture Images
 Contain button and preview for images. Container can be tapped to trigger pick image function. If container contain image, can tap to zoom the image. Remove is possible by tapping delete icon button on the bottom left.
 
-<img src="[https://github.com/ikhsan34/insurance_claim/assets/10411833/66b1b385-5b7e-4dfd-825e-6153242ff549](https://github.com/ikhsan34/insurance_claim/assets/10411833/498ff9bb-ef61-4333-ac64-29fe0411dd0c)" width=250 />
+<img src="https://github.com/ikhsan34/insurance_claim/assets/10411833/14d18c2c-3cb2-45e7-9b49-a8176edf9e93" width=250 />
 
 
 ### 3. Result Page
 Contain all data from the previous form. ID Card number is generated after picking image for ID Card. This page also show possible JSON for send to the backend.
 
-<img src="[https://github.com/ikhsan34/insurance_claim/assets/10411833/66b1b385-5b7e-4dfd-825e-6153242ff549](https://github.com/ikhsan34/insurance_claim/assets/10411833/c242d647-7541-4bce-b77f-7237dfe9a29a)" width=250 />
+<img src="https://github.com/ikhsan34/insurance_claim/assets/10411833/c242d647-7541-4bce-b77f-7237dfe9a29a" width=250 />
 
 
 ## Copyright Notice and Intended Use Explanation
