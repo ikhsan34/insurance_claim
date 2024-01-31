@@ -1,5 +1,22 @@
 # insurance_claim
 
+### Flutter Version Used
+```
+Flutter (Channel stable, 3.16.9, on Microsoft Windows [Version 10.0.19045.3930], locale en-US)
+```
+
+## Flutter contain 3 Pages
+Form Page, Capture Images and Result Page
+
+### 1. Form Page
+Form page contain simple form and dropdown field for province, city, district and village.
+
+
+### 2. Capture Images
+Contain button and preview for images. Container can be tapped to trigger pick image function. If container contain image, can tap to zoom the image. Remove is possible by tapping delete icon button on the bottom left.
+
+### 3. Result Page
+Contain all data from the previous form. ID Card number is generated after picking image for ID Card. This page also show possible JSON for send to the backend.
 
 
 ## Copyright Notice and Intended Use Explanation
